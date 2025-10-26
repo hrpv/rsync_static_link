@@ -1,0 +1,1 @@
+# rsync_static_link
